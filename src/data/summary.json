@@ -1,0 +1,481 @@
+{
+  "kpi": {
+    "totalSongs": 4600,
+    "totalArtists": 2000,
+    "totalAlbums": 4005,
+    "totalSpotifyStreams": 2007426881265,
+    "formattedSpotifyStreams": "2.01 Trillion",
+    "avgPopularity": 63.5,
+    "avgTrackScore": 41.84,
+    "platformsCount": 12,
+    "explicitCount": 1651,
+    "nonExplicitCount": 2949,
+    "explicitStreams": 731264492236,
+    "nonExplicitStreams": 1276162389029
+  },
+  "viewsSummary": {
+    "ecosystem": {
+      "name": "Music Ecosystem",
+      "description": "Tripartite network connecting Artists → Songs → Digital Platforms",
+      "nodeCount": 359,
+      "edgeCount": 2000,
+      "density": "0.03112",
+      "components": 2,
+      "avgDegree": "11.14"
+    },
+    "artist_song": {
+      "name": "Artist–Song Network",
+      "description": "Bipartite network showing authoring and repertoire connections",
+      "nodeCount": 347,
+      "edgeCount": 200,
+      "density": "0.00333",
+      "components": 147,
+      "avgDegree": "1.15"
+    },
+    "song_platform": {
+      "name": "Song–Platform Network",
+      "description": "Bipartite network linking tracks to their active digital distribution channels",
+      "nodeCount": 212,
+      "edgeCount": 1800,
+      "density": "0.08048",
+      "components": 2,
+      "avgDegree": "16.98"
+    },
+    "artist_platform": {
+      "name": "Artist–Platform Influence Network",
+      "description": "Bipartite projection showing artist footprint and presence across platforms",
+      "nodeCount": 159,
+      "edgeCount": 1311,
+      "density": "0.10437",
+      "components": 2,
+      "avgDegree": "16.49"
+    }
+  },
+  "insights": [
+    {
+      "title": "Top Central Hub Artist",
+      "badge": "Degree Centrality",
+      "finding": "Drake emerges as the highest-degree artist hub with 63 charting tracks across 11 platforms, acting as an anchor in the music network.",
+      "metric": "63 Songs · 34.96B Streams"
+    },
+    {
+      "title": "Cross-Platform Omnipresence",
+      "badge": "Network Density",
+      "finding": "76.0% (3,495 songs) appear simultaneously on 8 or more digital platforms, demonstrating tight cross-platform synchronization in modern music distribution.",
+      "metric": "3495 Tracks (8+ Platforms)"
+    },
+    {
+      "title": "Viral Social vs Broadcast Disconnect",
+      "badge": "Bipartite Disconnect",
+      "finding": "TikTok viral breakout \"Monkeys Spinning Monkeys\" by Kevin MacLeod achieved 233.2B TikTok views, demonstrating a distinct cluster from traditional AirPlay radio hubs.",
+      "metric": "233.2B TikTok Views"
+    },
+    {
+      "title": "Critical Bridge Nodes",
+      "badge": "Betweenness Centrality",
+      "finding": "Drake and multi-genre artists exhibit the highest betweenness centrality, bridging streaming platforms, radio broadcast networks, and discovery apps like Shazam.",
+      "metric": "Betweenness: 0.0000"
+    },
+    {
+      "title": "Platform Centrality Hierarchy",
+      "badge": "Platform Reach",
+      "finding": "Spotify (97.9% coverage) and YouTube (93.3% coverage) maintain the highest node degree, while Shazam and AirPlay form specialized bridge clusters for audio discovery.",
+      "metric": "12 Platforms Analysed"
+    }
+  ],
+  "yearDistribution": [
+    {
+      "year": 1987,
+      "count": 1,
+      "totalStreams": 1879386440,
+      "popularitySum": 80
+    },
+    {
+      "year": 1991,
+      "count": 1,
+      "totalStreams": 2021910364,
+      "popularitySum": 77
+    },
+    {
+      "year": 1994,
+      "count": 1,
+      "totalStreams": 1810649765,
+      "popularitySum": 60
+    },
+    {
+      "year": 1998,
+      "count": 1,
+      "totalStreams": 178339925,
+      "popularitySum": 72
+    },
+    {
+      "year": 1999,
+      "count": 1,
+      "totalStreams": 1405353677,
+      "popularitySum": 79
+    },
+    {
+      "year": 2000,
+      "count": 2,
+      "totalStreams": 3843533100,
+      "popularitySum": 163
+    },
+    {
+      "year": 2001,
+      "count": 1,
+      "totalStreams": 399145178,
+      "popularitySum": 68
+    },
+    {
+      "year": 2002,
+      "count": 5,
+      "totalStreams": 9063840343,
+      "popularitySum": 390
+    },
+    {
+      "year": 2003,
+      "count": 3,
+      "totalStreams": 4508044443,
+      "popularitySum": 240
+    },
+    {
+      "year": 2004,
+      "count": 5,
+      "totalStreams": 6163006377,
+      "popularitySum": 367
+    },
+    {
+      "year": 2005,
+      "count": 5,
+      "totalStreams": 6111892891,
+      "popularitySum": 357
+    },
+    {
+      "year": 2006,
+      "count": 3,
+      "totalStreams": 3288324199,
+      "popularitySum": 232
+    },
+    {
+      "year": 2007,
+      "count": 5,
+      "totalStreams": 5216022694,
+      "popularitySum": 368
+    },
+    {
+      "year": 2008,
+      "count": 11,
+      "totalStreams": 12871154068,
+      "popularitySum": 798
+    },
+    {
+      "year": 2009,
+      "count": 15,
+      "totalStreams": 16186431240,
+      "popularitySum": 989
+    },
+    {
+      "year": 2010,
+      "count": 27,
+      "totalStreams": 26123996288,
+      "popularitySum": 1874
+    },
+    {
+      "year": 2011,
+      "count": 51,
+      "totalStreams": 54241058712,
+      "popularitySum": 3415
+    },
+    {
+      "year": 2012,
+      "count": 47,
+      "totalStreams": 58793901855,
+      "popularitySum": 3356
+    },
+    {
+      "year": 2013,
+      "count": 55,
+      "totalStreams": 56459390105,
+      "popularitySum": 3553
+    },
+    {
+      "year": 2014,
+      "count": 70,
+      "totalStreams": 59099716047,
+      "popularitySum": 4353
+    },
+    {
+      "year": 2015,
+      "count": 96,
+      "totalStreams": 101825806749,
+      "popularitySum": 6417
+    },
+    {
+      "year": 2016,
+      "count": 123,
+      "totalStreams": 121976275260,
+      "popularitySum": 7991
+    },
+    {
+      "year": 2017,
+      "count": 213,
+      "totalStreams": 190087326284,
+      "popularitySum": 13350
+    },
+    {
+      "year": 2018,
+      "count": 249,
+      "totalStreams": 190967096865,
+      "popularitySum": 15193
+    },
+    {
+      "year": 2019,
+      "count": 296,
+      "totalStreams": 197469458194,
+      "popularitySum": 18844
+    },
+    {
+      "year": 2020,
+      "count": 360,
+      "totalStreams": 181546747102,
+      "popularitySum": 21785
+    },
+    {
+      "year": 2021,
+      "count": 408,
+      "totalStreams": 189608823933,
+      "popularitySum": 24337
+    },
+    {
+      "year": 2022,
+      "count": 694,
+      "totalStreams": 209637152866,
+      "popularitySum": 38779
+    },
+    {
+      "year": 2023,
+      "count": 1158,
+      "totalStreams": 225245837239,
+      "popularitySum": 48104
+    },
+    {
+      "year": 2024,
+      "count": 693,
+      "totalStreams": 69397259062,
+      "popularitySum": 25361
+    }
+  ],
+  "platformStats": [
+    {
+      "name": "Spotify",
+      "key": "spotify",
+      "color": "#1DB954",
+      "metricName": "Spotify Streams",
+      "unit": "Streams",
+      "connectedSongsCount": 4502,
+      "coveragePercent": "97.9",
+      "connectedArtistsCount": 1932,
+      "totalVolume": 2007426881265,
+      "topSong": {
+        "track": "Blinding Lights",
+        "artist": "The Weeknd",
+        "value": 4281468720,
+        "rank": 56
+      },
+      "topArtist": "Taylor Swift"
+    },
+    {
+      "name": "YouTube",
+      "key": "youtube",
+      "color": "#FF0000",
+      "metricName": "YouTube Views",
+      "unit": "Views",
+      "connectedSongsCount": 4292,
+      "coveragePercent": "93.3",
+      "connectedArtistsCount": 1870,
+      "totalVolume": 1728803560783,
+      "topSong": {
+        "track": "Baby Shark",
+        "artist": "Pinkfong",
+        "value": 16322756555,
+        "rank": 28
+      },
+      "topArtist": "Drake"
+    },
+    {
+      "name": "AirPlay",
+      "key": "airplay",
+      "color": "#38BDF8",
+      "metricName": "AirPlay Spins",
+      "unit": "Radio Spins",
+      "connectedSongsCount": 4102,
+      "coveragePercent": "89.2",
+      "connectedArtistsCount": 1725,
+      "totalVolume": 226180821,
+      "topSong": {
+        "track": "As It Was",
+        "artist": "Harry Styles",
+        "value": 1777811,
+        "rank": 20
+      },
+      "topArtist": "Drake"
+    },
+    {
+      "name": "Apple Music",
+      "key": "apple",
+      "color": "#FC3C44",
+      "metricName": "Apple Playlist Count",
+      "unit": "Playlists",
+      "connectedSongsCount": 4039,
+      "coveragePercent": "87.8",
+      "connectedArtistsCount": 1637,
+      "totalVolume": 220542,
+      "topSong": {
+        "track": "Blinding Lights",
+        "artist": "The Weeknd",
+        "value": 859,
+        "rank": 56
+      },
+      "topArtist": "Taylor Swift"
+    },
+    {
+      "name": "Shazam",
+      "key": "shazam",
+      "color": "#06B6D4",
+      "metricName": "Shazam Counts",
+      "unit": "Audio Tags",
+      "connectedSongsCount": 4023,
+      "coveragePercent": "87.5",
+      "connectedArtistsCount": 1774,
+      "totalVolume": 10174765191,
+      "topSong": {
+        "track": "Ruqya, Pt. 3",
+        "artist": "Hani Rifai",
+        "value": 219794543,
+        "rank": 1
+      },
+      "topArtist": "Bad Bunny"
+    },
+    {
+      "name": "Deezer",
+      "key": "deezer",
+      "color": "#A855F7",
+      "metricName": "Deezer Playlist Count",
+      "unit": "Playlists",
+      "connectedSongsCount": 3679,
+      "coveragePercent": "80.0",
+      "connectedArtistsCount": 1441,
+      "totalVolume": 118872,
+      "topSong": {
+        "track": "Don't Start Now",
+        "artist": "Dua Lipa",
+        "value": 632,
+        "rank": 149
+      },
+      "topArtist": "Taylor Swift"
+    },
+    {
+      "name": "TikTok",
+      "key": "tiktok",
+      "color": "#00F2FE",
+      "metricName": "TikTok Views",
+      "unit": "Views",
+      "connectedSongsCount": 3641,
+      "coveragePercent": "79.2",
+      "connectedArtistsCount": 1605,
+      "totalVolume": 4202230041408,
+      "topSong": {
+        "track": "Monkeys Spinning Monkeys",
+        "artist": "Kevin MacLeod",
+        "value": 233232311463,
+        "rank": 1
+      },
+      "topArtist": "Bad Bunny"
+    },
+    {
+      "name": "Amazon Music",
+      "key": "amazon",
+      "color": "#F59E0B",
+      "metricName": "Amazon Playlist Count",
+      "unit": "Playlists",
+      "connectedSongsCount": 3545,
+      "coveragePercent": "77.1",
+      "connectedArtistsCount": 1373,
+      "totalVolume": 89862,
+      "topSong": {
+        "track": "Flowers",
+        "artist": "Miley Cyrus",
+        "value": 210,
+        "rank": 4
+      },
+      "topArtist": "Taylor Swift"
+    },
+    {
+      "name": "Pandora",
+      "key": "pandora",
+      "color": "#3B82F6",
+      "metricName": "Pandora Streams",
+      "unit": "Streams",
+      "connectedSongsCount": 3494,
+      "coveragePercent": "76.0",
+      "connectedArtistsCount": 1312,
+      "totalVolume": 299321718299,
+      "topSong": {
+        "track": "I'm Yours",
+        "artist": "Jason Mraz",
+        "value": 1463624043,
+        "rank": 2
+      },
+      "topArtist": "Taylor Swift"
+    },
+    {
+      "name": "SiriusXM",
+      "key": "siriusxm",
+      "color": "#0284C7",
+      "metricName": "SiriusXM Spins",
+      "unit": "Satellite Spins",
+      "connectedSongsCount": 2477,
+      "coveragePercent": "53.8",
+      "connectedArtistsCount": 928,
+      "totalVolume": 637442,
+      "topSong": {
+        "track": "Players",
+        "artist": "Coi Leray",
+        "value": 7098,
+        "rank": 230
+      },
+      "topArtist": "Drake"
+    },
+    {
+      "name": "SoundCloud",
+      "key": "soundcloud",
+      "color": "#F97316",
+      "metricName": "SoundCloud Streams",
+      "unit": "Streams",
+      "connectedSongsCount": 1267,
+      "coveragePercent": "27.5",
+      "connectedArtistsCount": 665,
+      "totalVolume": 18812375984,
+      "topSong": {
+        "track": "Fuck Love (feat. Trippie Redd)",
+        "artist": "XXXTENTACION",
+        "value": 319835943,
+        "rank": 319
+      },
+      "topArtist": "Drake"
+    },
+    {
+      "name": "TIDAL",
+      "key": "tidal",
+      "color": "#10B981",
+      "metricName": "TIDAL Popularity",
+      "unit": "Popularity Score",
+      "connectedSongsCount": 0,
+      "coveragePercent": "0.0",
+      "connectedArtistsCount": 0,
+      "totalVolume": 0,
+      "topSong": null,
+      "topArtist": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+[
+  {
+    "name": "Spotify",
+    "key": "spotify",
+    "color": "#1DB954",
+    "metricName": "Spotify Streams",
+    "unit": "Streams",
+    "connectedSongsCount": 4502,
+    "coveragePercent": "97.9",
+    "connectedArtistsCount": 1932,
+    "totalVolume": 2007426881265,
+    "topSong": {
+      "track": "Blinding Lights",
+      "artist": "The Weeknd",
+      "value": 4281468720,
+      "rank": 56
+    },
+    "topArtist": "Taylor Swift"
+  },
+  {
+    "name": "YouTube",
+    "key": "youtube",
+    "color": "#FF0000",
+    "metricName": "YouTube Views",
+    "unit": "Views",
+    "connectedSongsCount": 4292,
+    "coveragePercent": "93.3",
+    "connectedArtistsCount": 1870,
+    "totalVolume": 1728803560783,
+    "topSong": {
+      "track": "Baby Shark",
+      "artist": "Pinkfong",
+      "value": 16322756555,
+      "rank": 28
+    },
+    "topArtist": "Drake"
+  },
+  {
+    "name": "AirPlay",
+    "key": "airplay",
+    "color": "#38BDF8",
+    "metricName": "AirPlay Spins",
+    "unit": "Radio Spins",
+    "connectedSongsCount": 4102,
+    "coveragePercent": "89.2",
+    "connectedArtistsCount": 1725,
+    "totalVolume": 226180821,
+    "topSong": {
+      "track": "As It Was",
+      "artist": "Harry Styles",
+      "value": 1777811,
+      "rank": 20
+    },
+    "topArtist": "Drake"
+  },
+  {
+    "name": "Apple Music",
+    "key": "apple",
+    "color": "#FC3C44",
+    "metricName": "Apple Playlist Count",
+    "unit": "Playlists",
+    "connectedSongsCount": 4039,
+    "coveragePercent": "87.8",
+    "connectedArtistsCount": 1637,
+    "totalVolume": 220542,
+    "topSong": {
+      "track": "Blinding Lights",
+      "artist": "The Weeknd",
+      "value": 859,
+      "rank": 56
+    },
+    "topArtist": "Taylor Swift"
+  },
+  {
+    "name": "Shazam",
+    "key": "shazam",
+    "color": "#06B6D4",
+    "metricName": "Shazam Counts",
+    "unit": "Audio Tags",
+    "connectedSongsCount": 4023,
+    "coveragePercent": "87.5",
+    "connectedArtistsCount": 1774,
+    "totalVolume": 10174765191,
+    "topSong": {
+      "track": "Ruqya, Pt. 3",
+      "artist": "Hani Rifai",
+      "value": 219794543,
+      "rank": 1
+    },
+    "topArtist": "Bad Bunny"
+  },
+  {
+    "name": "Deezer",
+    "key": "deezer",
+    "color": "#A855F7",
+    "metricName": "Deezer Playlist Count",
+    "unit": "Playlists",
+    "connectedSongsCount": 3679,
+    "coveragePercent": "80.0",
+    "connectedArtistsCount": 1441,
+    "totalVolume": 118872,
+    "topSong": {
+      "track": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "value": 632,
+      "rank": 149
+    },
+    "topArtist": "Taylor Swift"
+  },
+  {
+    "name": "TikTok",
+    "key": "tiktok",
+    "color": "#00F2FE",
+    "metricName": "TikTok Views",
+    "unit": "Views",
+    "connectedSongsCount": 3641,
+    "coveragePercent": "79.2",
+    "connectedArtistsCount": 1605,
+    "totalVolume": 4202230041408,
+    "topSong": {
+      "track": "Monkeys Spinning Monkeys",
+      "artist": "Kevin MacLeod",
+      "value": 233232311463,
+      "rank": 1
+    },
+    "topArtist": "Bad Bunny"
+  },
+  {
+    "name": "Amazon Music",
+    "key": "amazon",
+    "color": "#F59E0B",
+    "metricName": "Amazon Playlist Count",
+    "unit": "Playlists",
+    "connectedSongsCount": 3545,
+    "coveragePercent": "77.1",
+    "connectedArtistsCount": 1373,
+    "totalVolume": 89862,
+    "topSong": {
+      "track": "Flowers",
+      "artist": "Miley Cyrus",
+      "value": 210,
+      "rank": 4
+    },
+    "topArtist": "Taylor Swift"
+  },
+  {
+    "name": "Pandora",
+    "key": "pandora",
+    "color": "#3B82F6",
+    "metricName": "Pandora Streams",
+    "unit": "Streams",
+    "connectedSongsCount": 3494,
+    "coveragePercent": "76.0",
+    "connectedArtistsCount": 1312,
+    "totalVolume": 299321718299,
+    "topSong": {
+      "track": "I'm Yours",
+      "artist": "Jason Mraz",
+      "value": 1463624043,
+      "rank": 2
+    },
+    "topArtist": "Taylor Swift"
+  },
+  {
+    "name": "SiriusXM",
+    "key": "siriusxm",
+    "color": "#0284C7",
+    "metricName": "SiriusXM Spins",
+    "unit": "Satellite Spins",
+    "connectedSongsCount": 2477,
+    "coveragePercent": "53.8",
+    "connectedArtistsCount": 928,
+    "totalVolume": 637442,
+    "topSong": {
+      "track": "Players",
+      "artist": "Coi Leray",
+      "value": 7098,
+      "rank": 230
+    },
+    "topArtist": "Drake"
+  },
+  {
+    "name": "SoundCloud",
+    "key": "soundcloud",
+    "color": "#F97316",
+    "metricName": "SoundCloud Streams",
+    "unit": "Streams",
+    "connectedSongsCount": 1267,
+    "coveragePercent": "27.5",
+    "connectedArtistsCount": 665,
+    "totalVolume": 18812375984,
+    "topSong": {
+      "track": "Fuck Love (feat. Trippie Redd)",
+      "artist": "XXXTENTACION",
+      "value": 319835943,
+      "rank": 319
+    },
+    "topArtist": "Drake"
+  },
+  {
+    "name": "TIDAL",
+    "key": "tidal",
+    "color": "#10B981",
+    "metricName": "TIDAL Popularity",
+    "unit": "Popularity Score",
+    "connectedSongsCount": 0,
+    "coveragePercent": "0.0",
+    "connectedArtistsCount": 0,
+    "totalVolume": 0,
+    "topSong": null,
+    "topArtist": "N/A"
+  }
+]

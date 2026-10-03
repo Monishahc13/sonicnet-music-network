@@ -1,0 +1,34 @@
+{
+  "name": "sna-project",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "autoprefixer": "^10.6.1",
+    "clsx": "^2.1.1",
+    "cytoscape": "^3.34.3",
+    "graphology": "^0.26.0",
+    "graphology-components": "^1.5.4",
+    "graphology-metrics": "^2.4.2",
+    "graphology-shortest-path": "^2.1.0",
+    "lucide-react": "^1.51.0",
+    "postcss": "^8.5.28",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "recharts": "^3.10.1",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^6.4.3"
+  }
+}

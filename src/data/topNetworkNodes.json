@@ -1,0 +1,2831 @@
+{
+  "mostConnectedArtists": [
+    {
+      "name": "Drake",
+      "songCount": 63,
+      "totalSpotifyStreams": 34962157577,
+      "totalYouTubeViews": 11534703000,
+      "totalTikTokViews": 22477366399,
+      "avgPopularity": 66.5,
+      "avgTrackScore": 45.6,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "Apple Music",
+        "AirPlay",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam",
+        "TikTok",
+        "SiriusXM"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 518,
+          "track": "One Dance",
+          "streams": 3192204066,
+          "popularity": 82
+        },
+        {
+          "rank": 278,
+          "track": "God's Plan",
+          "streams": 2529948475,
+          "popularity": 77
+        },
+        {
+          "rank": 1,
+          "track": "Passionfruit",
+          "streams": 1625307365,
+          "popularity": 77
+        },
+        {
+          "rank": 766,
+          "track": "In My Feelings",
+          "streams": 1389607643,
+          "popularity": 68
+        },
+        {
+          "rank": 1,
+          "track": "Hotline Bling",
+          "streams": 1335494972,
+          "popularity": 72
+        }
+      ]
+    },
+    {
+      "name": "Taylor Swift",
+      "songCount": 63,
+      "totalSpotifyStreams": 34470771165,
+      "totalYouTubeViews": 20140603852,
+      "totalTikTokViews": 30020057523,
+      "avgPopularity": 74.8,
+      "avgTrackScore": 40.9,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 451,
+          "track": "Cruel Summer",
+          "streams": 2188247133,
+          "popularity": 88
+        },
+        {
+          "rank": 463,
+          "track": "Blank Space",
+          "streams": 1829733410,
+          "popularity": 76
+        },
+        {
+          "rank": 91,
+          "track": "Anti-Hero",
+          "streams": 1563224246,
+          "popularity": 80
+        },
+        {
+          "rank": 1,
+          "track": "Lover",
+          "streams": 1413268808,
+          "popularity": 81
+        },
+        {
+          "rank": 593,
+          "track": "Shake It Off",
+          "streams": 1409692678,
+          "popularity": 74
+        }
+      ]
+    },
+    {
+      "name": "Bad Bunny",
+      "songCount": 60,
+      "totalSpotifyStreams": 37054834425,
+      "totalYouTubeViews": 25072757092,
+      "totalTikTokViews": 45947009631,
+      "avgPopularity": 71.2,
+      "avgTrackScore": 47.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "Shazam",
+        "SoundCloud"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 262,
+          "track": "Dakiti",
+          "streams": 1977947460,
+          "popularity": 72
+        },
+        {
+          "rank": 64,
+          "track": "Me Porto Bonito",
+          "streams": 1811990630,
+          "popularity": 79
+        },
+        {
+          "rank": 89,
+          "track": "Tit�� Me Pregu",
+          "streams": 1514239759,
+          "popularity": 77
+        },
+        {
+          "rank": 638,
+          "track": "Callaita",
+          "streams": 1448173030,
+          "popularity": 70
+        },
+        {
+          "rank": 188,
+          "track": "Ojitos Lindos",
+          "streams": 1421763497,
+          "popularity": 78
+        }
+      ]
+    },
+    {
+      "name": "KAROL G",
+      "songCount": 32,
+      "totalSpotifyStreams": 13763899676,
+      "totalYouTubeViews": 17173289711,
+      "totalTikTokViews": 14502050935,
+      "avgPopularity": 69.3,
+      "avgTrackScore": 52.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 323,
+          "track": "Tusa",
+          "streams": 1497511486,
+          "popularity": 68
+        },
+        {
+          "rank": 151,
+          "track": "PROVENZA",
+          "streams": 1185929926,
+          "popularity": 76
+        },
+        {
+          "rank": 80,
+          "track": "TQG",
+          "streams": 1024381758,
+          "popularity": 78
+        },
+        {
+          "rank": 385,
+          "track": "BICHOTA",
+          "streams": 868091483,
+          "popularity": 64
+        },
+        {
+          "rank": 160,
+          "track": "QLONA",
+          "streams": 850810162,
+          "popularity": 82
+        }
+      ]
+    },
+    {
+      "name": "The Weeknd",
+      "songCount": 31,
+      "totalSpotifyStreams": 36948540278,
+      "totalYouTubeViews": 18635601580,
+      "totalTikTokViews": 14358656336,
+      "avgPopularity": 69.2,
+      "avgTrackScore": 48.7,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 56,
+          "track": "Blinding Lights",
+          "streams": 4281468720,
+          "popularity": 83
+        },
+        {
+          "rank": 265,
+          "track": "Starboy",
+          "streams": 3291262413,
+          "popularity": 84
+        },
+        {
+          "rank": 388,
+          "track": "The Hills",
+          "streams": 2306740926,
+          "popularity": 80
+        },
+        {
+          "rank": 1,
+          "track": "Die For You",
+          "streams": 2265551950,
+          "popularity": 74
+        },
+        {
+          "rank": 371,
+          "track": "Save Your Tears",
+          "streams": 1995511952,
+          "popularity": 80
+        }
+      ]
+    },
+    {
+      "name": "Travis Scott",
+      "songCount": 30,
+      "totalSpotifyStreams": 16460200849,
+      "totalYouTubeViews": 5033130212,
+      "totalTikTokViews": 7795483036,
+      "avgPopularity": 70.8,
+      "avgTrackScore": 47.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 549,
+          "track": "goosebumps",
+          "streams": 2396737761,
+          "popularity": 82
+        },
+        {
+          "rank": 626,
+          "track": "SICKO MODE",
+          "streams": 2134271997,
+          "popularity": 77
+        },
+        {
+          "rank": 443,
+          "track": "HIGHEST IN THE ROOM",
+          "streams": 1625149693,
+          "popularity": 78
+        },
+        {
+          "rank": 1,
+          "track": "BUTTERFLY EFFECT",
+          "streams": 1388024799,
+          "popularity": 79
+        },
+        {
+          "rank": 1,
+          "track": "Goosebumps - Remix",
+          "streams": 767502068,
+          "popularity": 70
+        }
+      ]
+    },
+    {
+      "name": "Billie Eilish",
+      "songCount": 27,
+      "totalSpotifyStreams": 16811833201,
+      "totalYouTubeViews": 7863834144,
+      "totalTikTokViews": 18276144729,
+      "avgPopularity": 78,
+      "avgTrackScore": 82.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 164,
+          "track": "bad guy",
+          "streams": 2516804300,
+          "popularity": 76
+        },
+        {
+          "rank": 787,
+          "track": "when the party's over",
+          "streams": 1845938685,
+          "popularity": 79
+        },
+        {
+          "rank": 372,
+          "track": "Happier Than Ever",
+          "streams": 1321878145,
+          "popularity": 78
+        },
+        {
+          "rank": 2,
+          "track": "idontwannabeyouanymore",
+          "streams": 1091185920,
+          "popularity": 72
+        },
+        {
+          "rank": 1,
+          "track": "bury a friend",
+          "streams": 1014870547,
+          "popularity": 68
+        }
+      ]
+    },
+    {
+      "name": "Ariana Grande",
+      "songCount": 26,
+      "totalSpotifyStreams": 23464991696,
+      "totalYouTubeViews": 19377678489,
+      "totalTikTokViews": 10746117309,
+      "avgPopularity": 72.3,
+      "avgTrackScore": 51.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam",
+        "TikTok"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 274,
+          "track": "7 rings",
+          "streams": 2262490403,
+          "popularity": 77
+        },
+        {
+          "rank": 515,
+          "track": "thank u, next",
+          "streams": 1878196824,
+          "popularity": 73
+        },
+        {
+          "rank": 2,
+          "track": "One Last Time",
+          "streams": 1465918510,
+          "popularity": 77
+        },
+        {
+          "rank": 368,
+          "track": "positions",
+          "streams": 1432830108,
+          "popularity": 74
+        },
+        {
+          "rank": 680,
+          "track": "Side To Side",
+          "streams": 1427792654,
+          "popularity": 70
+        }
+      ]
+    },
+    {
+      "name": "Future",
+      "songCount": 23,
+      "totalSpotifyStreams": 6953639603,
+      "totalYouTubeViews": 5496758566,
+      "totalTikTokViews": 4586165170,
+      "avgPopularity": 72.5,
+      "avgTrackScore": 63,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam",
+        "TikTok"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 614,
+          "track": "Mask Off",
+          "streams": 1596770801,
+          "popularity": 77
+        },
+        {
+          "rank": 189,
+          "track": "Life Is Good (feat. Drake)",
+          "streams": 1237874594,
+          "popularity": 67
+        },
+        {
+          "rank": 1,
+          "track": "Low Life",
+          "streams": 884825594,
+          "popularity": 72
+        },
+        {
+          "rank": 120,
+          "track": "WAIT FOR U (feat. Drake & Tems)",
+          "streams": 787155930,
+          "popularity": 77
+        },
+        {
+          "rank": 560,
+          "track": "PUFFIN ON ZOOTIEZ",
+          "streams": 395167576,
+          "popularity": 71
+        }
+      ]
+    },
+    {
+      "name": "Post Malone",
+      "songCount": 22,
+      "totalSpotifyStreams": 26137472958,
+      "totalYouTubeViews": 13465040833,
+      "totalTikTokViews": 6156019745,
+      "avgPopularity": 70.5,
+      "avgTrackScore": 72.2,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 116,
+          "track": "Sunflower - Spider-Man: Into the Spider-Verse",
+          "streams": 3358704125,
+          "popularity": 79
+        },
+        {
+          "rank": 231,
+          "track": "rockstar (feat. 21 Savage)",
+          "streams": 2960046642,
+          "popularity": 77
+        },
+        {
+          "rank": 170,
+          "track": "Circles",
+          "streams": 2481391466,
+          "popularity": 80
+        },
+        {
+          "rank": 322,
+          "track": "Congratulations",
+          "streams": 1984802459,
+          "popularity": 75
+        },
+        {
+          "rank": 962,
+          "track": "Better Now",
+          "streams": 1953403531,
+          "popularity": 74
+        }
+      ]
+    },
+    {
+      "name": "Peso Pluma",
+      "songCount": 22,
+      "totalSpotifyStreams": 6150121558,
+      "totalYouTubeViews": 3922606024,
+      "totalTikTokViews": 9600974248,
+      "avgPopularity": 70.5,
+      "avgTrackScore": 51.4,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "Shazam",
+        "SoundCloud"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 212,
+          "track": "LADY GAGA",
+          "streams": 684204777,
+          "popularity": 78
+        },
+        {
+          "rank": 522,
+          "track": "PRC",
+          "streams": 668103212,
+          "popularity": 69
+        },
+        {
+          "rank": 1,
+          "track": "Por las Noches",
+          "streams": 541105655,
+          "popularity": 43
+        },
+        {
+          "rank": 2,
+          "track": "Siempre Pendientes",
+          "streams": 395739041,
+          "popularity": 69
+        },
+        {
+          "rank": 328,
+          "track": "TULUM",
+          "streams": 390182196,
+          "popularity": 74
+        }
+      ]
+    },
+    {
+      "name": "Juice WRLD",
+      "songCount": 21,
+      "totalSpotifyStreams": 14230348723,
+      "totalYouTubeViews": 4890818666,
+      "totalTikTokViews": 2126940801,
+      "avgPopularity": 66.9,
+      "avgTrackScore": 38.2,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 150,
+          "track": "Lucid Dreams",
+          "streams": 2548389305,
+          "popularity": 78
+        },
+        {
+          "rank": 439,
+          "track": "All Girls Are The Same",
+          "streams": 1615353665,
+          "popularity": 76
+        },
+        {
+          "rank": 1,
+          "track": "Robbery",
+          "streams": 1306374052,
+          "popularity": 73
+        },
+        {
+          "rank": 1,
+          "track": "Come & Go (with Marshmello)",
+          "streams": 959313617,
+          "popularity": 71
+        },
+        {
+          "rank": 1,
+          "track": "Bandit (with YoungBoy Never Broke Again)",
+          "streams": 925747848,
+          "popularity": 67
+        }
+      ]
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "songCount": 20,
+      "totalSpotifyStreams": 19729219749,
+      "totalYouTubeViews": 4047749391,
+      "totalTikTokViews": 27630988786,
+      "avgPopularity": 59.1,
+      "avgTrackScore": 54.6,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 226,
+          "track": "drivers license",
+          "streams": 2184754018,
+          "popularity": 79
+        },
+        {
+          "rank": 2,
+          "track": "drivers license",
+          "streams": 2184754018,
+          "popularity": 57
+        },
+        {
+          "rank": 163,
+          "track": "good 4 u",
+          "streams": 2167768056,
+          "popularity": 79
+        },
+        {
+          "rank": 1,
+          "track": "good 4 u",
+          "streams": 2167768056,
+          "popularity": 54
+        },
+        {
+          "rank": 355,
+          "track": "deja vu",
+          "streams": 1606975517,
+          "popularity": 80
+        }
+      ]
+    },
+    {
+      "name": "Morgan Wallen",
+      "songCount": 20,
+      "totalSpotifyStreams": 8539666164,
+      "totalYouTubeViews": 2591522162,
+      "totalTikTokViews": 2891211466,
+      "avgPopularity": 72.5,
+      "avgTrackScore": 42.1,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 157,
+          "track": "Last Night",
+          "streams": 922010059,
+          "popularity": 79
+        },
+        {
+          "rank": 681,
+          "track": "Last Night",
+          "streams": 922010059,
+          "popularity": 50
+        },
+        {
+          "rank": 2,
+          "track": "Whiskey Glasses",
+          "streams": 806728296,
+          "popularity": 75
+        },
+        {
+          "rank": 545,
+          "track": "Wasted On You",
+          "streams": 717226454,
+          "popularity": 79
+        },
+        {
+          "rank": 494,
+          "track": "You Proof",
+          "streams": 644437397,
+          "popularity": 79
+        }
+      ]
+    },
+    {
+      "name": "Lil Baby",
+      "songCount": 20,
+      "totalSpotifyStreams": 7858337058,
+      "totalYouTubeViews": 5431342733,
+      "totalTikTokViews": 2717353146,
+      "avgPopularity": 64.4,
+      "avgTrackScore": 37.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 252,
+          "track": "Drip Too Hard (Lil Baby & Gunna)",
+          "streams": 1486929795,
+          "popularity": 76
+        },
+        {
+          "rank": 1,
+          "track": "Yes Indeed",
+          "streams": 1110994645,
+          "popularity": 74
+        },
+        {
+          "rank": 1,
+          "track": "Freestyle",
+          "streams": 706489684,
+          "popularity": 75
+        },
+        {
+          "rank": 928,
+          "track": "Pure Cocaine",
+          "streams": 652559944,
+          "popularity": 74
+        },
+        {
+          "rank": 807,
+          "track": "Sum 2 Prove",
+          "streams": 444934033,
+          "popularity": 66
+        }
+      ]
+    }
+  ],
+  "topBridgeNodes": [
+    {
+      "name": "Drake",
+      "songCount": 63,
+      "totalSpotifyStreams": 34962157577,
+      "totalYouTubeViews": 11534703000,
+      "totalTikTokViews": 22477366399,
+      "avgPopularity": 66.5,
+      "avgTrackScore": 45.6,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "Apple Music",
+        "AirPlay",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam",
+        "TikTok",
+        "SiriusXM"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 518,
+          "track": "One Dance",
+          "streams": 3192204066,
+          "popularity": 82
+        },
+        {
+          "rank": 278,
+          "track": "God's Plan",
+          "streams": 2529948475,
+          "popularity": 77
+        },
+        {
+          "rank": 1,
+          "track": "Passionfruit",
+          "streams": 1625307365,
+          "popularity": 77
+        },
+        {
+          "rank": 766,
+          "track": "In My Feelings",
+          "streams": 1389607643,
+          "popularity": 68
+        },
+        {
+          "rank": 1,
+          "track": "Hotline Bling",
+          "streams": 1335494972,
+          "popularity": 72
+        }
+      ]
+    },
+    {
+      "name": "Taylor Swift",
+      "songCount": 63,
+      "totalSpotifyStreams": 34470771165,
+      "totalYouTubeViews": 20140603852,
+      "totalTikTokViews": 30020057523,
+      "avgPopularity": 74.8,
+      "avgTrackScore": 40.9,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 451,
+          "track": "Cruel Summer",
+          "streams": 2188247133,
+          "popularity": 88
+        },
+        {
+          "rank": 463,
+          "track": "Blank Space",
+          "streams": 1829733410,
+          "popularity": 76
+        },
+        {
+          "rank": 91,
+          "track": "Anti-Hero",
+          "streams": 1563224246,
+          "popularity": 80
+        },
+        {
+          "rank": 1,
+          "track": "Lover",
+          "streams": 1413268808,
+          "popularity": 81
+        },
+        {
+          "rank": 593,
+          "track": "Shake It Off",
+          "streams": 1409692678,
+          "popularity": 74
+        }
+      ]
+    },
+    {
+      "name": "Bad Bunny",
+      "songCount": 60,
+      "totalSpotifyStreams": 37054834425,
+      "totalYouTubeViews": 25072757092,
+      "totalTikTokViews": 45947009631,
+      "avgPopularity": 71.2,
+      "avgTrackScore": 47.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "Shazam",
+        "SoundCloud"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 262,
+          "track": "Dakiti",
+          "streams": 1977947460,
+          "popularity": 72
+        },
+        {
+          "rank": 64,
+          "track": "Me Porto Bonito",
+          "streams": 1811990630,
+          "popularity": 79
+        },
+        {
+          "rank": 89,
+          "track": "Tit�� Me Pregu",
+          "streams": 1514239759,
+          "popularity": 77
+        },
+        {
+          "rank": 638,
+          "track": "Callaita",
+          "streams": 1448173030,
+          "popularity": 70
+        },
+        {
+          "rank": 188,
+          "track": "Ojitos Lindos",
+          "streams": 1421763497,
+          "popularity": 78
+        }
+      ]
+    },
+    {
+      "name": "KAROL G",
+      "songCount": 32,
+      "totalSpotifyStreams": 13763899676,
+      "totalYouTubeViews": 17173289711,
+      "totalTikTokViews": 14502050935,
+      "avgPopularity": 69.3,
+      "avgTrackScore": 52.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 323,
+          "track": "Tusa",
+          "streams": 1497511486,
+          "popularity": 68
+        },
+        {
+          "rank": 151,
+          "track": "PROVENZA",
+          "streams": 1185929926,
+          "popularity": 76
+        },
+        {
+          "rank": 80,
+          "track": "TQG",
+          "streams": 1024381758,
+          "popularity": 78
+        },
+        {
+          "rank": 385,
+          "track": "BICHOTA",
+          "streams": 868091483,
+          "popularity": 64
+        },
+        {
+          "rank": 160,
+          "track": "QLONA",
+          "streams": 850810162,
+          "popularity": 82
+        }
+      ]
+    },
+    {
+      "name": "The Weeknd",
+      "songCount": 31,
+      "totalSpotifyStreams": 36948540278,
+      "totalYouTubeViews": 18635601580,
+      "totalTikTokViews": 14358656336,
+      "avgPopularity": 69.2,
+      "avgTrackScore": 48.7,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 56,
+          "track": "Blinding Lights",
+          "streams": 4281468720,
+          "popularity": 83
+        },
+        {
+          "rank": 265,
+          "track": "Starboy",
+          "streams": 3291262413,
+          "popularity": 84
+        },
+        {
+          "rank": 388,
+          "track": "The Hills",
+          "streams": 2306740926,
+          "popularity": 80
+        },
+        {
+          "rank": 1,
+          "track": "Die For You",
+          "streams": 2265551950,
+          "popularity": 74
+        },
+        {
+          "rank": 371,
+          "track": "Save Your Tears",
+          "streams": 1995511952,
+          "popularity": 80
+        }
+      ]
+    },
+    {
+      "name": "Travis Scott",
+      "songCount": 30,
+      "totalSpotifyStreams": 16460200849,
+      "totalYouTubeViews": 5033130212,
+      "totalTikTokViews": 7795483036,
+      "avgPopularity": 70.8,
+      "avgTrackScore": 47.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 549,
+          "track": "goosebumps",
+          "streams": 2396737761,
+          "popularity": 82
+        },
+        {
+          "rank": 626,
+          "track": "SICKO MODE",
+          "streams": 2134271997,
+          "popularity": 77
+        },
+        {
+          "rank": 443,
+          "track": "HIGHEST IN THE ROOM",
+          "streams": 1625149693,
+          "popularity": 78
+        },
+        {
+          "rank": 1,
+          "track": "BUTTERFLY EFFECT",
+          "streams": 1388024799,
+          "popularity": 79
+        },
+        {
+          "rank": 1,
+          "track": "Goosebumps - Remix",
+          "streams": 767502068,
+          "popularity": 70
+        }
+      ]
+    },
+    {
+      "name": "Billie Eilish",
+      "songCount": 27,
+      "totalSpotifyStreams": 16811833201,
+      "totalYouTubeViews": 7863834144,
+      "totalTikTokViews": 18276144729,
+      "avgPopularity": 78,
+      "avgTrackScore": 82.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 164,
+          "track": "bad guy",
+          "streams": 2516804300,
+          "popularity": 76
+        },
+        {
+          "rank": 787,
+          "track": "when the party's over",
+          "streams": 1845938685,
+          "popularity": 79
+        },
+        {
+          "rank": 372,
+          "track": "Happier Than Ever",
+          "streams": 1321878145,
+          "popularity": 78
+        },
+        {
+          "rank": 2,
+          "track": "idontwannabeyouanymore",
+          "streams": 1091185920,
+          "popularity": 72
+        },
+        {
+          "rank": 1,
+          "track": "bury a friend",
+          "streams": 1014870547,
+          "popularity": 68
+        }
+      ]
+    },
+    {
+      "name": "Ariana Grande",
+      "songCount": 26,
+      "totalSpotifyStreams": 23464991696,
+      "totalYouTubeViews": 19377678489,
+      "totalTikTokViews": 10746117309,
+      "avgPopularity": 72.3,
+      "avgTrackScore": 51.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam",
+        "TikTok"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 274,
+          "track": "7 rings",
+          "streams": 2262490403,
+          "popularity": 77
+        },
+        {
+          "rank": 515,
+          "track": "thank u, next",
+          "streams": 1878196824,
+          "popularity": 73
+        },
+        {
+          "rank": 2,
+          "track": "One Last Time",
+          "streams": 1465918510,
+          "popularity": 77
+        },
+        {
+          "rank": 368,
+          "track": "positions",
+          "streams": 1432830108,
+          "popularity": 74
+        },
+        {
+          "rank": 680,
+          "track": "Side To Side",
+          "streams": 1427792654,
+          "popularity": 70
+        }
+      ]
+    },
+    {
+      "name": "Future",
+      "songCount": 23,
+      "totalSpotifyStreams": 6953639603,
+      "totalYouTubeViews": 5496758566,
+      "totalTikTokViews": 4586165170,
+      "avgPopularity": 72.5,
+      "avgTrackScore": 63,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam",
+        "TikTok"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 614,
+          "track": "Mask Off",
+          "streams": 1596770801,
+          "popularity": 77
+        },
+        {
+          "rank": 189,
+          "track": "Life Is Good (feat. Drake)",
+          "streams": 1237874594,
+          "popularity": 67
+        },
+        {
+          "rank": 1,
+          "track": "Low Life",
+          "streams": 884825594,
+          "popularity": 72
+        },
+        {
+          "rank": 120,
+          "track": "WAIT FOR U (feat. Drake & Tems)",
+          "streams": 787155930,
+          "popularity": 77
+        },
+        {
+          "rank": 560,
+          "track": "PUFFIN ON ZOOTIEZ",
+          "streams": 395167576,
+          "popularity": 71
+        }
+      ]
+    },
+    {
+      "name": "Post Malone",
+      "songCount": 22,
+      "totalSpotifyStreams": 26137472958,
+      "totalYouTubeViews": 13465040833,
+      "totalTikTokViews": 6156019745,
+      "avgPopularity": 70.5,
+      "avgTrackScore": 72.2,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 116,
+          "track": "Sunflower - Spider-Man: Into the Spider-Verse",
+          "streams": 3358704125,
+          "popularity": 79
+        },
+        {
+          "rank": 231,
+          "track": "rockstar (feat. 21 Savage)",
+          "streams": 2960046642,
+          "popularity": 77
+        },
+        {
+          "rank": 170,
+          "track": "Circles",
+          "streams": 2481391466,
+          "popularity": 80
+        },
+        {
+          "rank": 322,
+          "track": "Congratulations",
+          "streams": 1984802459,
+          "popularity": 75
+        },
+        {
+          "rank": 962,
+          "track": "Better Now",
+          "streams": 1953403531,
+          "popularity": 74
+        }
+      ]
+    },
+    {
+      "name": "Peso Pluma",
+      "songCount": 22,
+      "totalSpotifyStreams": 6150121558,
+      "totalYouTubeViews": 3922606024,
+      "totalTikTokViews": 9600974248,
+      "avgPopularity": 70.5,
+      "avgTrackScore": 51.4,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "Shazam",
+        "SoundCloud"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 212,
+          "track": "LADY GAGA",
+          "streams": 684204777,
+          "popularity": 78
+        },
+        {
+          "rank": 522,
+          "track": "PRC",
+          "streams": 668103212,
+          "popularity": 69
+        },
+        {
+          "rank": 1,
+          "track": "Por las Noches",
+          "streams": 541105655,
+          "popularity": 43
+        },
+        {
+          "rank": 2,
+          "track": "Siempre Pendientes",
+          "streams": 395739041,
+          "popularity": 69
+        },
+        {
+          "rank": 328,
+          "track": "TULUM",
+          "streams": 390182196,
+          "popularity": 74
+        }
+      ]
+    },
+    {
+      "name": "Juice WRLD",
+      "songCount": 21,
+      "totalSpotifyStreams": 14230348723,
+      "totalYouTubeViews": 4890818666,
+      "totalTikTokViews": 2126940801,
+      "avgPopularity": 66.9,
+      "avgTrackScore": 38.2,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 150,
+          "track": "Lucid Dreams",
+          "streams": 2548389305,
+          "popularity": 78
+        },
+        {
+          "rank": 439,
+          "track": "All Girls Are The Same",
+          "streams": 1615353665,
+          "popularity": 76
+        },
+        {
+          "rank": 1,
+          "track": "Robbery",
+          "streams": 1306374052,
+          "popularity": 73
+        },
+        {
+          "rank": 1,
+          "track": "Come & Go (with Marshmello)",
+          "streams": 959313617,
+          "popularity": 71
+        },
+        {
+          "rank": 1,
+          "track": "Bandit (with YoungBoy Never Broke Again)",
+          "streams": 925747848,
+          "popularity": 67
+        }
+      ]
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "songCount": 20,
+      "totalSpotifyStreams": 19729219749,
+      "totalYouTubeViews": 4047749391,
+      "totalTikTokViews": 27630988786,
+      "avgPopularity": 59.1,
+      "avgTrackScore": 54.6,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 226,
+          "track": "drivers license",
+          "streams": 2184754018,
+          "popularity": 79
+        },
+        {
+          "rank": 2,
+          "track": "drivers license",
+          "streams": 2184754018,
+          "popularity": 57
+        },
+        {
+          "rank": 163,
+          "track": "good 4 u",
+          "streams": 2167768056,
+          "popularity": 79
+        },
+        {
+          "rank": 1,
+          "track": "good 4 u",
+          "streams": 2167768056,
+          "popularity": 54
+        },
+        {
+          "rank": 355,
+          "track": "deja vu",
+          "streams": 1606975517,
+          "popularity": 80
+        }
+      ]
+    },
+    {
+      "name": "Morgan Wallen",
+      "songCount": 20,
+      "totalSpotifyStreams": 8539666164,
+      "totalYouTubeViews": 2591522162,
+      "totalTikTokViews": 2891211466,
+      "avgPopularity": 72.5,
+      "avgTrackScore": 42.1,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 157,
+          "track": "Last Night",
+          "streams": 922010059,
+          "popularity": 79
+        },
+        {
+          "rank": 681,
+          "track": "Last Night",
+          "streams": 922010059,
+          "popularity": 50
+        },
+        {
+          "rank": 2,
+          "track": "Whiskey Glasses",
+          "streams": 806728296,
+          "popularity": 75
+        },
+        {
+          "rank": 545,
+          "track": "Wasted On You",
+          "streams": 717226454,
+          "popularity": 79
+        },
+        {
+          "rank": 494,
+          "track": "You Proof",
+          "streams": 644437397,
+          "popularity": 79
+        }
+      ]
+    },
+    {
+      "name": "Lil Baby",
+      "songCount": 20,
+      "totalSpotifyStreams": 7858337058,
+      "totalYouTubeViews": 5431342733,
+      "totalTikTokViews": 2717353146,
+      "avgPopularity": 64.4,
+      "avgTrackScore": 37.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 252,
+          "track": "Drip Too Hard (Lil Baby & Gunna)",
+          "streams": 1486929795,
+          "popularity": 76
+        },
+        {
+          "rank": 1,
+          "track": "Yes Indeed",
+          "streams": 1110994645,
+          "popularity": 74
+        },
+        {
+          "rank": 1,
+          "track": "Freestyle",
+          "streams": 706489684,
+          "popularity": 75
+        },
+        {
+          "rank": 928,
+          "track": "Pure Cocaine",
+          "streams": 652559944,
+          "popularity": 74
+        },
+        {
+          "rank": 807,
+          "track": "Sum 2 Prove",
+          "streams": 444934033,
+          "popularity": 66
+        }
+      ]
+    }
+  ],
+  "influentialNodes": [
+    {
+      "name": "Bad Bunny",
+      "songCount": 60,
+      "totalSpotifyStreams": 37054834425,
+      "totalYouTubeViews": 25072757092,
+      "totalTikTokViews": 45947009631,
+      "avgPopularity": 71.2,
+      "avgTrackScore": 47.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "Shazam",
+        "SoundCloud"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 262,
+          "track": "Dakiti",
+          "streams": 1977947460,
+          "popularity": 72
+        },
+        {
+          "rank": 64,
+          "track": "Me Porto Bonito",
+          "streams": 1811990630,
+          "popularity": 79
+        },
+        {
+          "rank": 89,
+          "track": "Tit�� Me Pregu",
+          "streams": 1514239759,
+          "popularity": 77
+        },
+        {
+          "rank": 638,
+          "track": "Callaita",
+          "streams": 1448173030,
+          "popularity": 70
+        },
+        {
+          "rank": 188,
+          "track": "Ojitos Lindos",
+          "streams": 1421763497,
+          "popularity": 78
+        }
+      ]
+    },
+    {
+      "name": "The Weeknd",
+      "songCount": 31,
+      "totalSpotifyStreams": 36948540278,
+      "totalYouTubeViews": 18635601580,
+      "totalTikTokViews": 14358656336,
+      "avgPopularity": 69.2,
+      "avgTrackScore": 48.7,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 56,
+          "track": "Blinding Lights",
+          "streams": 4281468720,
+          "popularity": 83
+        },
+        {
+          "rank": 265,
+          "track": "Starboy",
+          "streams": 3291262413,
+          "popularity": 84
+        },
+        {
+          "rank": 388,
+          "track": "The Hills",
+          "streams": 2306740926,
+          "popularity": 80
+        },
+        {
+          "rank": 1,
+          "track": "Die For You",
+          "streams": 2265551950,
+          "popularity": 74
+        },
+        {
+          "rank": 371,
+          "track": "Save Your Tears",
+          "streams": 1995511952,
+          "popularity": 80
+        }
+      ]
+    },
+    {
+      "name": "Drake",
+      "songCount": 63,
+      "totalSpotifyStreams": 34962157577,
+      "totalYouTubeViews": 11534703000,
+      "totalTikTokViews": 22477366399,
+      "avgPopularity": 66.5,
+      "avgTrackScore": 45.6,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "Apple Music",
+        "AirPlay",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam",
+        "TikTok",
+        "SiriusXM"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 518,
+          "track": "One Dance",
+          "streams": 3192204066,
+          "popularity": 82
+        },
+        {
+          "rank": 278,
+          "track": "God's Plan",
+          "streams": 2529948475,
+          "popularity": 77
+        },
+        {
+          "rank": 1,
+          "track": "Passionfruit",
+          "streams": 1625307365,
+          "popularity": 77
+        },
+        {
+          "rank": 766,
+          "track": "In My Feelings",
+          "streams": 1389607643,
+          "popularity": 68
+        },
+        {
+          "rank": 1,
+          "track": "Hotline Bling",
+          "streams": 1335494972,
+          "popularity": 72
+        }
+      ]
+    },
+    {
+      "name": "Taylor Swift",
+      "songCount": 63,
+      "totalSpotifyStreams": 34470771165,
+      "totalYouTubeViews": 20140603852,
+      "totalTikTokViews": 30020057523,
+      "avgPopularity": 74.8,
+      "avgTrackScore": 40.9,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 451,
+          "track": "Cruel Summer",
+          "streams": 2188247133,
+          "popularity": 88
+        },
+        {
+          "rank": 463,
+          "track": "Blank Space",
+          "streams": 1829733410,
+          "popularity": 76
+        },
+        {
+          "rank": 91,
+          "track": "Anti-Hero",
+          "streams": 1563224246,
+          "popularity": 80
+        },
+        {
+          "rank": 1,
+          "track": "Lover",
+          "streams": 1413268808,
+          "popularity": 81
+        },
+        {
+          "rank": 593,
+          "track": "Shake It Off",
+          "streams": 1409692678,
+          "popularity": 74
+        }
+      ]
+    },
+    {
+      "name": "Post Malone",
+      "songCount": 22,
+      "totalSpotifyStreams": 26137472958,
+      "totalYouTubeViews": 13465040833,
+      "totalTikTokViews": 6156019745,
+      "avgPopularity": 70.5,
+      "avgTrackScore": 72.2,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 116,
+          "track": "Sunflower - Spider-Man: Into the Spider-Verse",
+          "streams": 3358704125,
+          "popularity": 79
+        },
+        {
+          "rank": 231,
+          "track": "rockstar (feat. 21 Savage)",
+          "streams": 2960046642,
+          "popularity": 77
+        },
+        {
+          "rank": 170,
+          "track": "Circles",
+          "streams": 2481391466,
+          "popularity": 80
+        },
+        {
+          "rank": 322,
+          "track": "Congratulations",
+          "streams": 1984802459,
+          "popularity": 75
+        },
+        {
+          "rank": 962,
+          "track": "Better Now",
+          "streams": 1953403531,
+          "popularity": 74
+        }
+      ]
+    },
+    {
+      "name": "Ed Sheeran",
+      "songCount": 15,
+      "totalSpotifyStreams": 24014900390,
+      "totalYouTubeViews": 27273658604,
+      "totalTikTokViews": 22141665963,
+      "avgPopularity": 68.3,
+      "avgTrackScore": 70.7,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 54,
+          "track": "Shape of You",
+          "streams": 3909458734,
+          "popularity": 80
+        },
+        {
+          "rank": 81,
+          "track": "Perfect",
+          "streams": 2969999682,
+          "popularity": 81
+        },
+        {
+          "rank": 980,
+          "track": "Photograph",
+          "streams": 2525355904,
+          "popularity": 77
+        },
+        {
+          "rank": 3,
+          "track": "Thinking out Loud",
+          "streams": 2502925593,
+          "popularity": 76
+        },
+        {
+          "rank": 735,
+          "track": "I Don't Care (with Justin Bieber)",
+          "streams": 1816356140,
+          "popularity": 70
+        }
+      ]
+    },
+    {
+      "name": "Ariana Grande",
+      "songCount": 26,
+      "totalSpotifyStreams": 23464991696,
+      "totalYouTubeViews": 19377678489,
+      "totalTikTokViews": 10746117309,
+      "avgPopularity": 72.3,
+      "avgTrackScore": 51.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam",
+        "TikTok"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 274,
+          "track": "7 rings",
+          "streams": 2262490403,
+          "popularity": 77
+        },
+        {
+          "rank": 515,
+          "track": "thank u, next",
+          "streams": 1878196824,
+          "popularity": 73
+        },
+        {
+          "rank": 2,
+          "track": "One Last Time",
+          "streams": 1465918510,
+          "popularity": 77
+        },
+        {
+          "rank": 368,
+          "track": "positions",
+          "streams": 1432830108,
+          "popularity": 74
+        },
+        {
+          "rank": 680,
+          "track": "Side To Side",
+          "streams": 1427792654,
+          "popularity": 70
+        }
+      ]
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "songCount": 20,
+      "totalSpotifyStreams": 19729219749,
+      "totalYouTubeViews": 4047749391,
+      "totalTikTokViews": 27630988786,
+      "avgPopularity": 59.1,
+      "avgTrackScore": 54.6,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 226,
+          "track": "drivers license",
+          "streams": 2184754018,
+          "popularity": 79
+        },
+        {
+          "rank": 2,
+          "track": "drivers license",
+          "streams": 2184754018,
+          "popularity": 57
+        },
+        {
+          "rank": 163,
+          "track": "good 4 u",
+          "streams": 2167768056,
+          "popularity": 79
+        },
+        {
+          "rank": 1,
+          "track": "good 4 u",
+          "streams": 2167768056,
+          "popularity": 54
+        },
+        {
+          "rank": 355,
+          "track": "deja vu",
+          "streams": 1606975517,
+          "popularity": 80
+        }
+      ]
+    },
+    {
+      "name": "Eminem",
+      "songCount": 15,
+      "totalSpotifyStreams": 18878880174,
+      "totalYouTubeViews": 14335943126,
+      "totalTikTokViews": 8915579370,
+      "avgPopularity": 76,
+      "avgTrackScore": 59.7,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 2,
+          "track": "Lose Yourself - From \"8 Mile\" Soundtrack",
+          "streams": 2194935773,
+          "popularity": 75
+        },
+        {
+          "rank": 1,
+          "track": "Without Me",
+          "streams": 2146682342,
+          "popularity": 0
+        },
+        {
+          "rank": 3,
+          "track": "Without Me",
+          "streams": 2146682342,
+          "popularity": 83
+        },
+        {
+          "rank": 2,
+          "track": "'Till I Collapse",
+          "streams": 1958809069,
+          "popularity": 79
+        },
+        {
+          "rank": 2,
+          "track": "The Real Slim Shady",
+          "streams": 1798020679,
+          "popularity": 81
+        }
+      ]
+    },
+    {
+      "name": "Harry Styles",
+      "songCount": 12,
+      "totalSpotifyStreams": 17353388340,
+      "totalYouTubeViews": 5231301426,
+      "totalTikTokViews": 28235612665,
+      "avgPopularity": 74.6,
+      "avgTrackScore": 68.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "Shazam",
+        "SoundCloud"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 20,
+          "track": "As It Was",
+          "streams": 3301814535,
+          "popularity": 87
+        },
+        {
+          "rank": 3,
+          "track": "As It Was",
+          "streams": 3299082422,
+          "popularity": 0
+        },
+        {
+          "rank": 243,
+          "track": "Watermelon Sugar",
+          "streams": 2708151499,
+          "popularity": 82
+        },
+        {
+          "rank": 442,
+          "track": "Adore You",
+          "streams": 1670164200,
+          "popularity": 78
+        },
+        {
+          "rank": 743,
+          "track": "Sign of the Times",
+          "streams": 1532653504,
+          "popularity": 76
+        }
+      ]
+    },
+    {
+      "name": "Imagine Dragons",
+      "songCount": 16,
+      "totalSpotifyStreams": 17157121647,
+      "totalYouTubeViews": 15339748154,
+      "totalTikTokViews": 17224041937,
+      "avgPopularity": 69.9,
+      "avgTrackScore": 60.5,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 119,
+          "track": "Believer",
+          "streams": 3006226762,
+          "popularity": 81
+        },
+        {
+          "rank": 203,
+          "track": "Thunder",
+          "streams": 2384768901,
+          "popularity": 79
+        },
+        {
+          "rank": 847,
+          "track": "Demons",
+          "streams": 2270796677,
+          "popularity": 80
+        },
+        {
+          "rank": 654,
+          "track": "Radioactive",
+          "streams": 1836362703,
+          "popularity": 75
+        },
+        {
+          "rank": 495,
+          "track": "Enemy (with JID) - from the series Arcane League of Legends",
+          "streams": 1502382072,
+          "popularity": 75
+        }
+      ]
+    },
+    {
+      "name": "XXXTENTACION",
+      "songCount": 16,
+      "totalSpotifyStreams": 16923515048,
+      "totalYouTubeViews": 7860610142,
+      "totalTikTokViews": 8247641209,
+      "avgPopularity": 70.4,
+      "avgTrackScore": 45.5,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 289,
+          "track": "SAD!",
+          "streams": 2218531106,
+          "popularity": 75
+        },
+        {
+          "rank": 375,
+          "track": "Moonlight",
+          "streams": 1885431727,
+          "popularity": 77
+        },
+        {
+          "rank": 319,
+          "track": "Fuck Love (feat. Trippie Redd)",
+          "streams": 1615274494,
+          "popularity": 79
+        },
+        {
+          "rank": 1,
+          "track": "Everybody Dies In Their Nightmares",
+          "streams": 1590659204,
+          "popularity": 77
+        },
+        {
+          "rank": 519,
+          "track": "Hope",
+          "streams": 1442703001,
+          "popularity": 78
+        }
+      ]
+    },
+    {
+      "name": "Billie Eilish",
+      "songCount": 27,
+      "totalSpotifyStreams": 16811833201,
+      "totalYouTubeViews": 7863834144,
+      "totalTikTokViews": 18276144729,
+      "avgPopularity": 78,
+      "avgTrackScore": 82.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 164,
+          "track": "bad guy",
+          "streams": 2516804300,
+          "popularity": 76
+        },
+        {
+          "rank": 787,
+          "track": "when the party's over",
+          "streams": 1845938685,
+          "popularity": 79
+        },
+        {
+          "rank": 372,
+          "track": "Happier Than Ever",
+          "streams": 1321878145,
+          "popularity": 78
+        },
+        {
+          "rank": 2,
+          "track": "idontwannabeyouanymore",
+          "streams": 1091185920,
+          "popularity": 72
+        },
+        {
+          "rank": 1,
+          "track": "bury a friend",
+          "streams": 1014870547,
+          "popularity": 68
+        }
+      ]
+    },
+    {
+      "name": "Justin Bieber",
+      "songCount": 14,
+      "totalSpotifyStreams": 16647801287,
+      "totalYouTubeViews": 19336283617,
+      "totalTikTokViews": 13475976913,
+      "avgPopularity": 70.9,
+      "avgTrackScore": 57.4,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "Shazam",
+        "SoundCloud"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 530,
+          "track": "Love Yourself",
+          "streams": 2423583406,
+          "popularity": 78
+        },
+        {
+          "rank": 264,
+          "track": "Sorry",
+          "streams": 2089476497,
+          "popularity": 78
+        },
+        {
+          "rank": 148,
+          "track": "Peaches (feat. Daniel Caesar & Giveon)",
+          "streams": 1612286123,
+          "popularity": 74
+        },
+        {
+          "rank": 1,
+          "track": "What Do You Mean?",
+          "streams": 1599742798,
+          "popularity": 74
+        },
+        {
+          "rank": 283,
+          "track": "Ghost",
+          "streams": 1586830204,
+          "popularity": 80
+        }
+      ]
+    },
+    {
+      "name": "Travis Scott",
+      "songCount": 30,
+      "totalSpotifyStreams": 16460200849,
+      "totalYouTubeViews": 5033130212,
+      "totalTikTokViews": 7795483036,
+      "avgPopularity": 70.8,
+      "avgTrackScore": 47.3,
+      "platformsCount": 11,
+      "platforms": [
+        "Spotify",
+        "YouTube",
+        "TikTok",
+        "Apple Music",
+        "AirPlay",
+        "SiriusXM",
+        "Deezer",
+        "Amazon Music",
+        "Pandora",
+        "SoundCloud",
+        "Shazam"
+      ],
+      "degree": 0.005469915464942815,
+      "betweenness": 0.000006042692175504835,
+      "pageRank": 0.0003363873998799985,
+      "topSongs": [
+        {
+          "rank": 549,
+          "track": "goosebumps",
+          "streams": 2396737761,
+          "popularity": 82
+        },
+        {
+          "rank": 626,
+          "track": "SICKO MODE",
+          "streams": 2134271997,
+          "popularity": 77
+        },
+        {
+          "rank": 443,
+          "track": "HIGHEST IN THE ROOM",
+          "streams": 1625149693,
+          "popularity": 78
+        },
+        {
+          "rank": 1,
+          "track": "BUTTERFLY EFFECT",
+          "streams": 1388024799,
+          "popularity": 79
+        },
+        {
+          "rank": 1,
+          "track": "Goosebumps - Remix",
+          "streams": 767502068,
+          "popularity": 70
+        }
+      ]
+    }
+  ],
+  "platformDegreeRanking": [
+    {
+      "name": "Spotify",
+      "key": "spotify",
+      "color": "#1DB954",
+      "metricName": "Spotify Streams",
+      "unit": "Streams",
+      "connectedSongsCount": 4502,
+      "coveragePercent": "97.9",
+      "connectedArtistsCount": 1932,
+      "totalVolume": 2007426881265,
+      "topSong": {
+        "track": "Blinding Lights",
+        "artist": "The Weeknd",
+        "value": 4281468720,
+        "rank": 56
+      },
+      "topArtist": "Taylor Swift"
+    },
+    {
+      "name": "YouTube",
+      "key": "youtube",
+      "color": "#FF0000",
+      "metricName": "YouTube Views",
+      "unit": "Views",
+      "connectedSongsCount": 4292,
+      "coveragePercent": "93.3",
+      "connectedArtistsCount": 1870,
+      "totalVolume": 1728803560783,
+      "topSong": {
+        "track": "Baby Shark",
+        "artist": "Pinkfong",
+        "value": 16322756555,
+        "rank": 28
+      },
+      "topArtist": "Drake"
+    },
+    {
+      "name": "AirPlay",
+      "key": "airplay",
+      "color": "#38BDF8",
+      "metricName": "AirPlay Spins",
+      "unit": "Radio Spins",
+      "connectedSongsCount": 4102,
+      "coveragePercent": "89.2",
+      "connectedArtistsCount": 1725,
+      "totalVolume": 226180821,
+      "topSong": {
+        "track": "As It Was",
+        "artist": "Harry Styles",
+        "value": 1777811,
+        "rank": 20
+      },
+      "topArtist": "Drake"
+    },
+    {
+      "name": "Apple Music",
+      "key": "apple",
+      "color": "#FC3C44",
+      "metricName": "Apple Playlist Count",
+      "unit": "Playlists",
+      "connectedSongsCount": 4039,
+      "coveragePercent": "87.8",
+      "connectedArtistsCount": 1637,
+      "totalVolume": 220542,
+      "topSong": {
+        "track": "Blinding Lights",
+        "artist": "The Weeknd",
+        "value": 859,
+        "rank": 56
+      },
+      "topArtist": "Taylor Swift"
+    },
+    {
+      "name": "Shazam",
+      "key": "shazam",
+      "color": "#06B6D4",
+      "metricName": "Shazam Counts",
+      "unit": "Audio Tags",
+      "connectedSongsCount": 4023,
+      "coveragePercent": "87.5",
+      "connectedArtistsCount": 1774,
+      "totalVolume": 10174765191,
+      "topSong": {
+        "track": "Ruqya, Pt. 3",
+        "artist": "Hani Rifai",
+        "value": 219794543,
+        "rank": 1
+      },
+      "topArtist": "Bad Bunny"
+    },
+    {
+      "name": "Deezer",
+      "key": "deezer",
+      "color": "#A855F7",
+      "metricName": "Deezer Playlist Count",
+      "unit": "Playlists",
+      "connectedSongsCount": 3679,
+      "coveragePercent": "80.0",
+      "connectedArtistsCount": 1441,
+      "totalVolume": 118872,
+      "topSong": {
+        "track": "Don't Start Now",
+        "artist": "Dua Lipa",
+        "value": 632,
+        "rank": 149
+      },
+      "topArtist": "Taylor Swift"
+    },
+    {
+      "name": "TikTok",
+      "key": "tiktok",
+      "color": "#00F2FE",
+      "metricName": "TikTok Views",
+      "unit": "Views",
+      "connectedSongsCount": 3641,
+      "coveragePercent": "79.2",
+      "connectedArtistsCount": 1605,
+      "totalVolume": 4202230041408,
+      "topSong": {
+        "track": "Monkeys Spinning Monkeys",
+        "artist": "Kevin MacLeod",
+        "value": 233232311463,
+        "rank": 1
+      },
+      "topArtist": "Bad Bunny"
+    },
+    {
+      "name": "Amazon Music",
+      "key": "amazon",
+      "color": "#F59E0B",
+      "metricName": "Amazon Playlist Count",
+      "unit": "Playlists",
+      "connectedSongsCount": 3545,
+      "coveragePercent": "77.1",
+      "connectedArtistsCount": 1373,
+      "totalVolume": 89862,
+      "topSong": {
+        "track": "Flowers",
+        "artist": "Miley Cyrus",
+        "value": 210,
+        "rank": 4
+      },
+      "topArtist": "Taylor Swift"
+    },
+    {
+      "name": "Pandora",
+      "key": "pandora",
+      "color": "#3B82F6",
+      "metricName": "Pandora Streams",
+      "unit": "Streams",
+      "connectedSongsCount": 3494,
+      "coveragePercent": "76.0",
+      "connectedArtistsCount": 1312,
+      "totalVolume": 299321718299,
+      "topSong": {
+        "track": "I'm Yours",
+        "artist": "Jason Mraz",
+        "value": 1463624043,
+        "rank": 2
+      },
+      "topArtist": "Taylor Swift"
+    },
+    {
+      "name": "SiriusXM",
+      "key": "siriusxm",
+      "color": "#0284C7",
+      "metricName": "SiriusXM Spins",
+      "unit": "Satellite Spins",
+      "connectedSongsCount": 2477,
+      "coveragePercent": "53.8",
+      "connectedArtistsCount": 928,
+      "totalVolume": 637442,
+      "topSong": {
+        "track": "Players",
+        "artist": "Coi Leray",
+        "value": 7098,
+        "rank": 230
+      },
+      "topArtist": "Drake"
+    },
+    {
+      "name": "SoundCloud",
+      "key": "soundcloud",
+      "color": "#F97316",
+      "metricName": "SoundCloud Streams",
+      "unit": "Streams",
+      "connectedSongsCount": 1267,
+      "coveragePercent": "27.5",
+      "connectedArtistsCount": 665,
+      "totalVolume": 18812375984,
+      "topSong": {
+        "track": "Fuck Love (feat. Trippie Redd)",
+        "artist": "XXXTENTACION",
+        "value": 319835943,
+        "rank": 319
+      },
+      "topArtist": "Drake"
+    },
+    {
+      "name": "TIDAL",
+      "key": "tidal",
+      "color": "#10B981",
+      "metricName": "TIDAL Popularity",
+      "unit": "Popularity Score",
+      "connectedSongsCount": 0,
+      "coveragePercent": "0.0",
+      "connectedArtistsCount": 0,
+      "totalVolume": 0,
+      "topSong": null,
+      "topArtist": "N/A"
+    }
+  ]
+}
